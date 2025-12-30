@@ -19,8 +19,8 @@ export async function POST(request: NextRequest) {
     // Send email using Resend
     const { data, error } = await resend.emails.send({
       from: 'Forgio Contact Form <onboarding@resend.dev>', // You'll need to update this with your verified domain
-      to: ['askpurin@pm.me'],
-      subject: `New Contact Form Submission from ${name}`,
+      to: ['purin.buriwong@gmail.com'], // Changed to registered email until domain is verified
+      subject: `[Forgio Contact] ${name} - ${company || 'New Inquiry'}`,
       html: `
         <h2>New Contact Form Submission</h2>
         <p><strong>Name:</strong> ${name}</p>
