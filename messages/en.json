@@ -1,0 +1,320 @@
+{
+  "locale": "en",
+  "nav": {
+    "home": "Home",
+    "product": "Features",
+    "about": "Our Story",
+    "contact": "Contact"
+  },
+  "hero": {
+    "title": "The ERP & CRM Built for Real-World Manufacturing",
+    "subtitle": "Stop guessing. Forgio syncs your sales, inventory, and production into one clear dashboard—giving you the data you need to make confident decisions.",
+    "cta": "Explore Features",
+    "contact": "Book a Consultation"
+  },
+  "home": {
+    "value": {
+      "title": "Why Manufacturers Choose Forgio",
+      "subtitle": "Built for Thai manufacturers who demand excellence",
+      "clarity": {
+        "title": "Decisions Based on Data",
+        "description": "No more spreadsheets or guesswork. Get a real-time view of your business health that you can actually understand."
+      },
+      "unified": {
+        "title": "One Source of Truth",
+        "description": "Consolidate your operations. From customer orders to raw material tracking, everything is connected in one system."
+      },
+      "smart": {
+        "title": "Proactive Alerts",
+        "description": "The system identifies bottlenecks and low stock levels before they become problems, so you can stay ahead of the curve."
+      }
+    },
+    "learnMore": "See how it works"
+  },
+  "pain": {
+    "title": "The Friction Slowing Down Your Growth",
+    "intro": "You’re working hard, but scattered data is costing you time and money. If you can’t see the 'leaks' in your operations, you can't fix them.",
+    "items": {
+      "data": "Data is trapped in Excel, LINE chats, and people's heads.",
+      "inventory": "Stock levels never match reality. You’re either overstocked or running out.",
+      "sales": "Orders are coming in, but production is struggling to keep up.",
+      "customers": "Valuable customer history is lost or buried in messy files.",
+      "visibility": "No real-time overview. You don't know your true profit until the month ends.",
+      "technology": "Previous systems were too complex. Staff didn't use them, so you went back to manual."
+    }
+  },
+  "what": {
+    "title": "Your Business Navigation System",
+    "intro": "Running a business is like navigating a ship. You need a radar, not just a gut feeling.",
+    "description": "Forgio isn't a magic wand—it’s a precision tool. It shows you exactly where your business stands, where the friction is, and what needs your attention right now. We provide the clarity; you provide the leadership.",
+    "philosophy": "Long-term success isn't built on hype or speed. It's built on making better decisions every single day."
+  },
+  "scope": {
+    "title": "Every Function, Fully Integrated",
+    "intro": "Built for the factory floor and the front office alike. No fluff—just the tools you need to run your business.",
+    "areas": {
+      "sales": {
+        "title": "Sales & Orders",
+        "description": "Manage POS, quotes, and invoicing with automated payment tracking."
+      },
+      "operations": {
+        "title": "Ops & Production",
+        "description": "Real-time inventory, BOM management, and production status tracking."
+      },
+      "customers": {
+        "title": "Customer Management",
+        "description": "Centralized database for leads, history, and follow-up reminders."
+      },
+      "people": {
+        "title": "HR & Payroll",
+        "description": "Simplify time-tracking, payroll, and labor cost analysis."
+      },
+      "finance": {
+        "title": "Financial Insight",
+        "description": "Instant P&L reports, cash flow tracking, and tax readiness."
+      },
+      "approvals": {
+        "title": "Approvals & Control",
+        "description": "Customizable workflows to keep you in control of every major spend."
+      }
+    }
+  },
+  "assistant": {
+    "title": "Smart Assistant: An Extra Pair of Eyes",
+    "description": "Forgio’s internal analyzer monitors your operations 24/7. It flags unusual expenses, detects production delays, and alerts you to risks before they impact your bottom line.",
+    "note": "It doesn't replace your team; it empowers them with better information."
+  },
+  "trust": {
+    "title": "Built from the Factory Floor Up",
+    "description": "Forgio wasn't built in a vacuum. It was designed by looking at how manufacturers actually operate—prioritizing usability over unnecessary features.",
+    "origin": "Developed by Brainfried—software should solve problems, not create them."
+  },
+  "cta": {
+    "title": "Ready for a Clear View of Your Business?",
+    "description": "Forgio isn't for every business. But if you're a manufacturer who values precision and a dependable system, let's talk.",
+    "badge": "Get Started Today",
+    "trust": "Trusted by manufacturing leaders across Thailand",
+    "secure": "Secure",
+    "support": "24/7 Support",
+    "implementation": "Fast Setup",
+    "getStarted": "Get Started",
+    "form": {
+      "title": "Request a Callback",
+      "name": "Contact Name",
+      "company": "Company Name",
+      "phone": "Phone Number",
+      "message": "Tell us about your needs",
+      "submit": "Submit Request",
+      "success": "Received. A specialist will contact you within 24 hours."
+    },
+    "or": "or",
+    "line": "Chat via LINE"
+  },
+  "product": {
+    "hero": {
+      "title": "The Unified Business Operating System",
+      "subtitle": "From initial quote to final shipment—sync every department and eliminate manual data entry."
+    },
+    "areas": {
+      "sales": {
+        "label": "Sales & Orders",
+        "title": "Close Deals Faster, Track Every Cent",
+        "description": "Simplify your sales cycle. Know exactly what’s sold, who owes you money, and your most profitable channels.",
+        "feature1": "Fast, reliable POS for storefront operations",
+        "feature2": "Professional quotes and invoices in seconds",
+        "feature3": "Automated accounts receivable tracking",
+        "feature4": "Sales analytics by product, rep, and region"
+      },
+      "operations": {
+        "label": "Operations",
+        "title": "Inventory & Production Under Control",
+        "description": "Eliminate stockouts and overproduction. Know your true cost-per-unit with real-time material tracking.",
+        "feature1": "Multi-warehouse and branch inventory sync",
+        "feature2": "BOM management and precise cost calculation",
+        "feature3": "Smart low-stock and expiration alerts",
+        "feature4": "Live production progress and Job Order tracking"
+      },
+      "customers": {
+        "label": "Customers",
+        "title": "Turn Transactions into Relationships",
+        "description": "Never forget a client’s specific needs. Give your sales team the context they need to upsell and retain customers.",
+        "feature1": "Complete purchase history and client profiles",
+        "feature2": "Interaction logs for calls and meetings",
+        "feature3": "Lead pipeline and opportunity management",
+        "feature4": "Loyalty analysis and VIP customer tracking"
+      },
+      "people": {
+        "label": "People",
+        "title": "Manage Labor and Payroll with Precision",
+        "description": "Connect your payroll directly to your operational costs for a truer picture of your margins.",
+        "feature1": "Secure employee database and records",
+        "feature2": "Automated payroll and bonus calculations",
+        "feature3": "Clock-in/out and leave management",
+        "feature4": "Labor efficiency and cost-per-worker reports"
+      },
+      "finance": {
+        "label": "Finance",
+        "title": "Audit-Ready Financials at Any Moment",
+        "description": "Stop waiting for month-end summaries. Get a live view of your P&L and cash flow whenever you need it.",
+        "feature1": "Real-time Profit & Loss (P&L) reporting",
+        "feature2": "Cash flow and liquidity monitoring",
+        "feature3": "Project-based cost and margin analysis",
+        "feature4": "Simplified tax and accounting exports"
+      },
+      "approvals": {
+        "label": "Approvals",
+        "title": "Maintain Control Without the Bottlenecks",
+        "description": "Set clear spending limits and approval chains that keep the business moving without sacrificing oversight.",
+        "feature1": "Custom multi-level approval workflows",
+        "feature2": "Push notifications for pending requests",
+        "feature3": "Full audit trails for every decision",
+        "feature4": "Role-based data access and permissions"
+      }
+    },
+    "visual": {
+      "placeholder": "Forgio System Interface"
+    },
+    "assistant": {
+      "label": "Smart Assistant",
+      "title": "AI-Driven Insights: See What Matters",
+      "description": "We don’t just store data; we help you use it. Our assistant flags the critical issues so you don't have to go looking for them.",
+      "features": {
+        "insights": {
+          "title": "Sales Trend Analysis",
+          "description": "Identifies which products are peaking and which are losing momentum."
+        },
+        "patterns": {
+          "title": "Anomaly Detection",
+          "description": "Alerts you to irregular spending or sudden drops in production efficiency."
+        },
+        "alerts": {
+          "title": "High-Priority Alerts",
+          "description": "Filters out the noise to notify you only of events that impact profit."
+        },
+        "recommendations": {
+          "title": "Actionable Suggestions",
+          "description": "Data-backed advice on reordering, pricing, or following up with leads."
+        }
+      }
+    },
+    "cta": {
+      "title": "See Forgio in Action",
+      "description": "Book a live demo to see how we can solve your specific operational challenges.",
+      "button": "Book a Demo"
+    }
+  },
+  "about": {
+    "hero": {
+      "title": "Built for the Real World",
+      "subtitle": "Software should make your work easier, not add another layer of complexity."
+    },
+    "story": {
+      "title": "Why Forgio Exists",
+      "p1": "Too many business owners struggle with expensive ERPs that are so hard to use, their staff just goes back to Excel.",
+      "p2": "The problem isn't the users—it's the tools. Most systems are built by people who have never stepped foot on a factory floor.",
+      "p3": "Forgio was built by talking to manufacturers and SMEs to understand their actual workflows. Prioritizing intuition over complexity.",
+      "p4": "Months on the floor, understanding the pain points of managers and operators to create a system that people actually *want* to use.",
+      "quote": "A tool is only useful if it helps you focus on what actually moves the needle."
+    },
+    "philosophy": {
+      "title": "Design Philosophy",
+      "simplicity": {
+        "title": "Focused Simplicity",
+        "description": "If your team needs a week of training to use it, it’s too complicated. Forgio is built for speed."
+      },
+      "trust": {
+        "title": "Data Integrity",
+        "description": "Accuracy is everything. We provide a system you can rely on for your most critical business audits."
+      },
+      "clarity": {
+        "title": "Instant Clarity",
+        "description": "No hidden menus. No jargon. Get the information you need in two clicks or less."
+      },
+      "longterm": {
+        "title": "Built to Scale",
+        "description": "Built for the business you have today, and the one you'll have in five years."
+      }
+    },
+    "brainfried": {
+      "title": "Brainfried",
+      "p1": "Brainfried builds software that equips SMEs with the same level of technology as global enterprises—without the enterprise price tag.",
+      "p2": "Built with experience across manufacturing, logistics, and retail. Understanding where typical software bottlenecks occur.",
+      "p3": "Small and medium businesses are the backbone of the economy and deserve tools that are as hardworking as they are.",
+      "mission": "Mission: To replace operational chaos with systematic clarity."
+    },
+    "name": {
+      "title": "What’s in a Name?",
+      "p1": "Forgio is derived from 'Forge'—the process of shaping something strong and durable under intense conditions.",
+      "p2": "A resilient business is like forged metal; it takes discipline, the right tools, and time. Forgio is that tool.",
+      "heat": {
+        "title": "Challenge",
+        "description": "The market pressures that force you to grow."
+      },
+      "pressure": {
+        "title": "Execution",
+        "description": "The disciplined actions that shape your success."
+      },
+      "time": {
+        "title": "Growth",
+        "description": "The accumulated value of a well-run business."
+      }
+    },
+    "cta": {
+      "title": "Ready to Systematize Your Growth?",
+      "description": "Not just software. A partner in operational efficiency.",
+      "button": "Talk to Us"
+    }
+  },
+  "contact": {
+    "hero": {
+      "title": "Let’s Talk Business",
+      "subtitle": "No sales pitch. Just a conversation about your challenges and how we can help."
+    },
+    "form": {
+      "heading": "Send Us a Message",
+      "description": "Give us a few details and our team will reach out within 24 hours."
+    },
+    "line": {
+      "heading": "LINE Official",
+      "description": "Need a faster response? Reach us on LINE.",
+      "button": "Add on LINE"
+    },
+    "info": {
+      "heading": "Good to Know",
+      "response": "Response time: Within 24 hours (Mon-Fri).",
+      "consultation": "First operational assessment is free."
+    },
+    "email": {
+      "heading": "Email Us",
+      "description": "Send us an email and we'll get back to you within 24 hours."
+    },
+    "details": {
+      "heading": "Forgio by Brainfried",
+      "company": "Brainfried.co",
+      "location": "Salaya, Thailand"
+    },
+    "faq": {
+      "title": "FAQs",
+      "pricing": {
+        "question": "What is the cost?",
+        "answer": "We offer flexible plans based on your required features and scale. We'll provide a quote after a brief needs assessment."
+      },
+      "demo": {
+        "question": "Can we see a live demo?",
+        "answer": "Yes. We can schedule a session to walk you through the system using examples relevant to your industry."
+      },
+      "implementation": {
+        "question": "How fast can we go live?",
+        "answer": "Most businesses are up and running within 2-4 weeks, depending on data readiness."
+      },
+      "support": {
+        "question": "What kind of support is provided?",
+        "answer": "You get a dedicated support team for onboarding, training, and ongoing technical assistance."
+      }
+    }
+  },
+  "footer": {
+    "forgio": "Forgio: Real-world business management for modern manufacturers.",
+    "brainfried": "Powered by"
+  }
+}
