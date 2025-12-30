@@ -95,7 +95,7 @@
     "badge": "Get Started Today",
     "trust": "Trusted by manufacturing leaders across Thailand",
     "secure": "Secure",
-    "support": "24/7 Support",
+    "support": "Direct Support",
     "implementation": "Fast Setup",
     "getStarted": "Get Started",
     "form": {
@@ -309,7 +309,7 @@
       },
       "support": {
         "question": "What kind of support is provided?",
-        "answer": "You get a dedicated support team for onboarding, training, and ongoing technical assistance."
+        "answer": "Direct technical support via LINE or email for setup, training, and ongoing assistance."
       }
     }
   },
