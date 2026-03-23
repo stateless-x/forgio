@@ -1,33 +1,34 @@
 # Forgio
 
-Multi-tenant SaaS platform for Thai SME inventory and sales management.
+ERP platform for Thai SMEs. Inventory management, sales, and business operations.
 
-## Structure
+This repo is the central navigator. Each service has its own repository, history, and deployment pipeline. Start here, then go to the repo that matches your role.
 
-This repo uses **git submodules**. Each service is an independent repository:
+## Services
 
-| Folder | Repo | Description |
-|--------|------|-------------|
-| `frontend/` | [forgio-fe](https://github.com/stateless-x/forgio-fe) | Customer-facing web app |
-| `backend/` | [forgio-be](https://github.com/stateless-x/forgio-be) | API server |
-| `admin/` | [forgio-admin](https://github.com/stateless-x/forgio-admin) | Admin portal |
+| Repo | What it does | Port |
+|---|---|---|
+| [forgio-be](https://github.com/stateless-x/forgio-be) | REST API. Multi-tenant backend for inventory, sales, auth. | 4000 |
+| [forgio-fe](https://github.com/stateless-x/forgio-fe) | Web app. Customer-facing product. | 3000 |
+| [forgio-admin](https://github.com/stateless-x/forgio-admin) | Admin portal. SaaS operator tools. | 3001 |
 
-## Getting Started
+## How the system fits together
 
-```bash
-# Clone with submodules
-git clone --recurse-submodules https://github.com/stateless-x/forgio.git
-
-# If already cloned without submodules
-git submodule update --init --recursive
+```
+Web App  ──API──▶  Backend  ──▶  PostgreSQL
+Admin    ──API──▶  Backend  ──▶  Supabase (auth)
 ```
 
-## Development
+## Running locally
 
-Each service runs independently. See individual READMEs for setup instructions.
+Start in this order.
 
-| Service | Port | Command |
-|---------|------|---------|
-| Frontend | 3000 | `bun dev` |
-| Backend | 3001 | `bun dev` |
-| Admin | 3002 | `bun dev` |
+1. Backend first. Nothing else works without it.
+2. Web app. Depends on the backend.
+3. Admin. Depends on the backend.
+
+Each repo's README has its own quickstart instructions.
+
+## Stack
+
+Bun · Elysia · Next.js · PostgreSQL · Drizzle ORM · Supabase · Better Auth

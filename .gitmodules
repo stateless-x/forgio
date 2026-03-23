@@ -1,9 +1,15 @@
-[submodule "admin"]
-	path = admin
-	url = https://github.com/stateless-x/forgio-admin.git
 [submodule "backend"]
 	path = backend
 	url = https://github.com/stateless-x/forgio-be.git
+	branch = main
+	update = rebase
 [submodule "frontend"]
 	path = frontend
 	url = https://github.com/stateless-x/forgio-fe.git
+	branch = main
+	update = rebase
+[submodule "admin"]
+	path = admin
+	url = https://github.com/stateless-x/forgio-admin.git
+	branch = main
+	update = rebase
